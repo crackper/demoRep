@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDemoVersiones", "WebDemoVersiones\WebDemoVersiones.csproj", "{AC667CA4-F693-4A15-91DF-9BB421C7FD1E}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs27
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WebDemoVersiones\\WebDemoVersiones.csproj
+		SccProjectName1 = WebDemoVersiones
+		SccLocalPath1 = WebDemoVersiones
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC667CA4-F693-4A15-91DF-9BB421C7FD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC667CA4-F693-4A15-91DF-9BB421C7FD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC667CA4-F693-4A15-91DF-9BB421C7FD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC667CA4-F693-4A15-91DF-9BB421C7FD1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
