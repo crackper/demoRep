@@ -128,9 +128,10 @@
     </Compile>
     <Compile Include="Carmen.aspx.cs">
       <DependentUpon>Carmen.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Carmen.aspx.designer.cs">
-      <DependentUpon>Carmen.aspx</DependentUpon>
+    <Compile Include="Arturo.aspx.designer.cs">
+      <DependentUpon>Arturo.aspx</DependentUpon>
     </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
