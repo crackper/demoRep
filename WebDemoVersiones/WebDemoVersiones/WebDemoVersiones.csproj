@@ -59,10 +59,13 @@
     <Content Include="Account\ChangePasswordSuccess.aspx" />
     <Content Include="Account\Login.aspx" />
     <Content Include="Account\Register.aspx" />
+    <Content Include="Arturo.aspx" />
+    <Content Include="Carmen.aspx" />
     <Content Include="frmCrackper.aspx" />
     <Content Include="FrmGiancarlo.aspx" />
     <Content Include="frmjasminne.aspx" />
     <Content Include="frmMiPage.aspx" />
+    <Content Include="FrmMolle.aspx" />
     <Content Include="frmProductos.aspx" />
     <Content Include="FrmSamuel.aspx" />
     <Content Include="Styles\Site.css" />
@@ -78,6 +81,7 @@
     <Content Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
+    <Content Include="WebForm1.aspx" />
     <Content Include="WebFormCrackper.aspx" />
   </ItemGroup>
   <ItemGroup>
@@ -116,6 +120,18 @@
     <Compile Include="Account\Register.aspx.designer.cs">
       <DependentUpon>Register.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Arturo.aspx.cs">
+      <DependentUpon>Arturo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Arturo.aspx.designer.cs">
+      <DependentUpon>Arturo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Carmen.aspx.cs">
+      <DependentUpon>Carmen.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Carmen.aspx.designer.cs">
+      <DependentUpon>Carmen.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -151,6 +167,12 @@
     <Compile Include="frmMiPage.aspx.designer.cs">
       <DependentUpon>frmMiPage.aspx</DependentUpon>
     </Compile>
+    <Compile Include="FrmMolle.aspx.cs">
+      <DependentUpon>FrmMolle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMolle.aspx.designer.cs">
+      <DependentUpon>FrmMolle.aspx</DependentUpon>
+    </Compile>
     <Compile Include="frmProductos.aspx.cs">
       <DependentUpon>frmProductos.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -175,6 +197,13 @@
     </Compile>
     <Compile Include="Site.Master.designer.cs">
       <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm1.aspx.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm1.aspx.designer.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
     </Compile>
     <Compile Include="WebFormCrackper.aspx.cs">
       <DependentUpon>WebFormCrackper.aspx</DependentUpon>
