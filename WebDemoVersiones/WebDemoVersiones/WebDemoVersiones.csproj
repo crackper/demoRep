@@ -60,6 +60,7 @@
     <Content Include="Account\Login.aspx" />
     <Content Include="Account\Register.aspx" />
     <Content Include="frmCrackper.aspx" />
+    <Content Include="FrmGiancarlo.aspx" />
     <Content Include="frmjasminne.aspx" />
     <Content Include="frmMiPage.aspx" />
     <Content Include="frmProductos.aspx" />
@@ -128,6 +129,13 @@
     </Compile>
     <Compile Include="frmCrackper.aspx.designer.cs">
       <DependentUpon>frmCrackper.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGiancarlo.aspx.cs">
+      <DependentUpon>FrmGiancarlo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FrmGiancarlo.aspx.designer.cs">
+      <DependentUpon>FrmGiancarlo.aspx</DependentUpon>
     </Compile>
     <Compile Include="frmjasminne.aspx.cs">
       <DependentUpon>frmjasminne.aspx</DependentUpon>
